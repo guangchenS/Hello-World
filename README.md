@@ -1,5 +1,4 @@
 # Hello-World
-Just learn and test
 
 *test*
 
